@@ -25,5 +25,4 @@ The project requires the following Python packages:
 
 ## Acknowledgments
 
-- Coursera for the guided project
 - Wisconsin Diagnostic Breast Cancer (WDBC) dataset
